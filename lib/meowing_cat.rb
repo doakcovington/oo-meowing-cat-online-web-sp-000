@@ -1,9 +1,9 @@
-## code your solution here. 
+## code your solution here.
 #cat class
-class Cat 
+class Cat
   attr_accessor :name
 
   def meowing_cat
-    
+
   end
 end #end of Cat class
